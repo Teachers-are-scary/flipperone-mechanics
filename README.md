@@ -16,7 +16,7 @@ Enclosure 3D model versions consist of two parts: `<LETTER>.<NUMBER>` (for examp
 
 Description of the file and directory structure in this repository:
 
-```
+```bash
 ├── OLD/ # Deprecated versions
 │ ├── A.0/
 │ └── ...
