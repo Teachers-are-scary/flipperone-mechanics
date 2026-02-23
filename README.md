@@ -50,7 +50,7 @@ Description of the file and directory structure in this repository:
 The latest 3D models can be viewed online using the free Onshape web viewer. Models can be inspected directly in the browser and exported to common CAD formats, including STEP, IGES, OBJ, STL and more.
 
 <p align="center">
-  <a href="https://cad.onshape.com/documents/32ee3b79861e4ff5fe28ee3b/w/8eca0dcb9e92b0271d434028/e/fbe3506762a12a485b605a70?renderMode=0&uiState=698e49e3092f9713cafdf272">
+  <a href="https://cad.onshape.com/documents/32ee3b79861e4ff5fe28ee3b/w/8eca0dcb9e92b0271d434028/e/adb36e3c67cc1a734691cf20?renderMode=0&uiState=699c4c5e57423b4a71d455b8">
     <img width="300" alt="view_on_onshape" src="https://github.com/user-attachments/assets/cbb9ca12-cd3c-44c9-bfda-5d85ef581c9c" />
   </a>
 </p>
