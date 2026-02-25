@@ -1,6 +1,6 @@
 # Flipper One Mechanics
 
-This repository contains 3D models of the Flipper One enclosure and expansion modules.
+This repository is part of the [Flipper One Mechanics](https://github.com/orgs/flipperdevices/projects/15) sub-project and contains issue tracking, 3D model files of the Flipper One enclosure and expansion modules.
 
 ![flipper_one_3d_model_banner](https://github.com/user-attachments/assets/5e709ba7-ed90-42a6-bfe3-200f94b65e2f)
 
