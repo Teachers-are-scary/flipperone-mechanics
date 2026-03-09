@@ -17,13 +17,14 @@ Enclosure 3D model versions consist of two parts: `<LETTER>.<NUMBER>` (for examp
 Description of the file and directory structure in this repository:
 
 ```bash
-├── OLD/ # Deprecated versions
-│ ├── A.0/
-│ └── ...
-├── CURRENT/ # Current supported version
-│ └── X.N/ # Current enclosure revision <LETTER>.<NUMBER>
-│ ├── Flipper One (X.N).stp # Full enclosure 3D model (STEP)
-│ └── Graphics/ # Logos, engravings, decals, artwork for the enclosure
+├── OLD/                     # Deprecated enclosure revisions
+│   ├── A.0/
+│   └── ...
+├── CURRENT/                 # Current supported enclosure revision
+│   └── X.N/                 # Current revision <LETTER>.<NUMBER>
+│       ├── Flipper One (X.N).stp   # Full enclosure 3D model (STEP)
+│       ├── Graphics/               # Logos, engravings, decals, artwork for the enclosure
+│       └── Modules/                # Official modules and add-ons
 ```
 
 # 3D model parts
